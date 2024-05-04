@@ -1,4 +1,4 @@
-git pull github master
+git pull github main
 
 git add ./
 git commit -m "sync"
