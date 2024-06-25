@@ -1,0 +1,5 @@
+1、ubuntu安装graphviz：sudo apt install graphviz
+
+2、cd /mnt/d/code ...
+
+3、运行 dot bigworld-load-balance-cell-split-10-binary-tree.dot | gvpr -c -f binarytree.gvpr | neato -n -Tpng -o bigworld-load-balance-cell-split-10-binary-tree.png
